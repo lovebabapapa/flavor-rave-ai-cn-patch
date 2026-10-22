@@ -2,6 +2,10 @@
 
 > **适用游戏版本**：FNF: Flavor Rave **V2.5.2 FULLY BREWED!**
 > 补丁的路径与字段结构按该版本校准；游戏若更新需等待对应补丁版本。
+>
+> **原作**：[GameBanana](https://gamebanana.com/mods/410436) · [上游源码](https://github.com/Jorge-SunSpirit/Flavor-Rave-Public)
+>
+> **原作**：[GameBanana](https://gamebanana.com/mods/410436) · [上游源码](https://github.com/Jorge-SunSpirit/Flavor-Rave-Public)
 
 ## v1.0.0 — 2026-10-22 · 首个正式版
 

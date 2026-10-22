@@ -106,6 +106,16 @@ certutil -hashfile FR_CN_patch_v1.0.0.zip SHA256
 
 ---
 
+## 🔗 原作
+
+- 游戏页面（GameBanana）：https://gamebanana.com/mods/410436
+- 上游公开源码：https://github.com/Jorge-SunSpirit/Flavor-Rave-Public
+
+## 🔗 原作
+
+- 游戏页面（GameBanana）：https://gamebanana.com/mods/410436
+- 上游公开源码：https://github.com/Jorge-SunSpirit/Flavor-Rave-Public
+
 ## 🙏 致谢
 
 感谢 **Team TBD** 与各 DLC 作者创作的优秀作品，感谢所有参与校对与反馈的玩家。

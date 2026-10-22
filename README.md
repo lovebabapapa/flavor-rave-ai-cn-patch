@@ -9,6 +9,10 @@
 | 补丁版本 | v1.0.0 |
 | 安装方式 | 文件覆盖（先装 DLC，再覆盖补丁） |
 | 项目仓库 | https://github.com/lovebabapapa/flavor-rave-ai-cn-patch |
+| **原作 GameBanana** | https://gamebanana.com/mods/410436 |
+| **原作源码** | https://github.com/Jorge-SunSpirit/Flavor-Rave-Public |
+| **原作 GameBanana** | https://gamebanana.com/mods/410436 |
+| **原作源码** | https://github.com/Jorge-SunSpirit/Flavor-Rave-Public |
 
 > ⚠️ 补丁的路径与字段结构均按 **V2.5.2 FULLY BREWED!** 校准。
 > 若游戏更新到更高版本，可能出现文件缺失、字段结构变化或文本错位，请等待对应补丁更新后再使用。
@@ -142,7 +146,11 @@ python build.py
 
 - 本项目中的**脚本与工具链**：MIT License
 - 本项目中的**译文文本**：CC BY-SA 4.0（转载 / 二次修改请保留出处与相同许可）
-- 游戏本体、角色、美术、音乐版权归 **Team TBD / Flavor Rave 原作者** 所有
+- 游戏本体、角色、美术、音乐版权归 **Team TBD / Flavor Rave 原作者** 所有：
+- GameBanana 页面：https://gamebanana.com/mods/410436
+- 上游公开源码：https://github.com/Jorge-SunSpirit/Flavor-Rave-Public：
+- GameBanana 页面：https://gamebanana.com/mods/410436
+- 上游公开源码：https://github.com/Jorge-SunSpirit/Flavor-Rave-Public
 - 感谢原作者与各 DLC 作者创作的优秀作品；感谢所有提交译误反馈的玩家
 
 > 本项目不提供游戏本体，请支持正版。

@@ -294,6 +294,16 @@ def _write_readme(mod_root):
 · Lua 中文字幕：saff 电影片头 8 句、Restless 前段歌词 4 句、
   Lodestar Shanty 羊皮纸信件台词 6 句、Home Brew 结束画面
 
+【原作链接】
+· GameBanana（游玩/下载/支持作者）：https://gamebanana.com/mods/410436
+· 上游公开源码：https://github.com/Jorge-SunSpirit/Flavor-Rave-Public
+  本补丁不包含游戏本体，请先从上述页面获取游戏。
+
+【原作链接】
+· GameBanana（游玩/下载/支持作者）：https://gamebanana.com/mods/410436
+· 上游公开源码：https://github.com/Jorge-SunSpirit/Flavor-Rave-Public
+  本补丁不包含游戏本体，请先从上述页面获取游戏。
+
 【未覆盖内容（及原因）】
 · DLC 下载菜单：列表与文案是运行时从作者服务器拉取的远程 JSON，
   本地无缓存，且该界面字体不含中文字形 —— 需改源码才能汉化
