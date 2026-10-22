@@ -16,6 +16,21 @@
 SHA256: 3f57c2b9d006ddf07078ab1539935b22cacb85ca81d31265fda402b968807d2d
 ```
 
+### 校验下载（推荐，30 秒）
+
+下载后建议验证文件完整性——补丁是 283 个 JSON，压缩包若损坏，覆盖进游戏会出现「某段剧情空白」甚至读档报错，很难排查。
+
+在文件所在目录打开 cmd：
+
+```cmd
+certutil -hashfile FR_CN_patch_v1.0.0.zip SHA256
+```
+
+输出的哈希值应与上方 `SHA256` **完全一致**。若不一致，请重新下载。
+
+> PowerShell 也可用：`Get-FileHash .\FR_CN_patch_v1.0.0.zip -Algorithm SHA256`
+> 或右键压缩包 → 7-Zip → CRC SHA → SHA-256
+
 ---
 
 ## ✨ 这个版本有什么
