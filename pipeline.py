@@ -29,6 +29,7 @@ FILE_RULES = [
     (lambda p: p.endswith("/flavorpediaData.json") or p.endswith("/flavorpediaSideData.json"), "flavorpedia"),
     (lambda p: "/weeks/" in p and p.endswith(".json"), "weeks"),
     (lambda p: p.endswith("/meta.json") and "/data/" in p, "meta"),
+    (lambda p: "/characters/gameover/" in p and p.endswith(".json"), "gameover"),
 ]
 
 # 白名单: 抽取器 -> [(字段路径, 处理方式)]
@@ -50,6 +51,7 @@ EXTRACTORS = {
                      ("things.*.flavorText", "plain"), ("things.*.desc", "plain")],
     "weeks":        [("weekName", "plain"), ("storyName", "plain"), ("location", "plain")],
     "meta":         [("song.name", "plain")],
+    "gameover":     [("goSound.*.subtitles", "subtitle")],
 }
 
 NL_TAG = "<br>"
@@ -285,6 +287,7 @@ def _write_readme(mod_root):
 · SynSun 电视百科 / 人物档案 / 曲目介绍（78 个文件）
 · 结算画面台词（30 个文件，含各角色 S~D 评价）
 · Flavorpedia 图鉴（角色 / 地点 / 物品 / 侧栏人物）
+· 死亡台词（33 个角色，含 DLC 全部角色）
 · 成就（名称、条件、Showman 台词）、职员表、画廊说明
 · 周目定义（周目名 / 章节分组 / 地点名）、曲名（英文（中文）格式）
 · UI 语言表 289 项：选项菜单、Modifiers 修改器、暂停菜单、

@@ -1,5 +1,19 @@
 # 更新日志
 
+## v1.0.1 — 2026-10-22 · 补全死亡台词
+
+### 修复与补全
+- **新增：全部死亡台词（GAME OVER 语音字幕）** —— 33 个角色、74 句
+  此前整块遗漏（文本存放在 `characters/gameover/*.json` 的 `goSound` 字段，
+  不在原抽取白名单内）。基础游戏 16 个角色 + 全部 DLC 17 个角色均已覆盖，
+  每句的 `:dur:` 语音计时保持与原版一致
+- 修复 `酸莓` → `Sour`（timeshock 章节人名误译）
+
+### 管线
+- `FILE_RULES` 新增 `characters/gameover/` 类型，`EXTRACTORS` 新增 `goSound.*.subtitles`（subtitle 模式）
+- 新增 `batch_gameover.py` 批次脚本（按分句生成，含逐句计时）
+
+
 > **适用游戏版本**：FNF: Flavor Rave **V2.5.2 FULLY BREWED!**
 > 补丁的路径与字段结构按该版本校准；游戏若更新需等待对应补丁版本。
 >
