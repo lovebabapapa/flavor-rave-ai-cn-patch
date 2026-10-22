@@ -126,7 +126,7 @@ ainiee/
 python build.py
 ```
 
-会校验 `manual_files` 完整性、生成 `汉化输出/FR_CN_补丁_v<版本>.zip` 与对应 sha256。
+会校验 `manual_files` 完整性、生成 `汉化输出/FR_CN_patch_v<版本>.zip` 与对应 sha256。
 
 ---
 

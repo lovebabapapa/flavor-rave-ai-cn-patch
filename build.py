@@ -71,7 +71,7 @@ def main():
     total, n_json, n_lua, n_png, entries = stats()
     print(f"版本 {ver} | 文件 {total}（json {n_json} / lua {n_lua} / png {n_png}）| 条目 {entries}")
 
-    zip_path = os.path.join(OUTDIR, f"FR_CN_补丁_v{ver}.zip")
+    zip_path = os.path.join(OUTDIR, f"FR_CN_patch_v{ver}.zip")
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as z:
         for r, _, fs in os.walk(PATCH):
             for f in fs:
