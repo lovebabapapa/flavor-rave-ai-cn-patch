@@ -1,0 +1,9 @@
+{
+ "achievements": {
+ "0": {
+ "fancyName": "满意顾客",
+ "unlockCondition": "在《Double-Stacked》中达成全连",
+ "showmanDialogue": "我的天，你真做到了！"
+ }
+ }
+}

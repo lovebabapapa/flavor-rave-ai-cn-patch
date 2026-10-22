@@ -1,0 +1,31 @@
+{
+ "peeps": {
+ "0": {
+ "description": "暂停菜单画师"
+ },
+ "1": {
+ "description": "3D 美术师"
+ },
+ "2": {
+ "description": "作曲：Mochoco"
+ },
+ "3": {
+ "description": "作曲：Noichi、Mochoco、Flootena"
+ },
+ "4": {
+ "description": "作曲：LegoGodzilla 与 Faceless"
+ },
+ "5": {
+ "description": "作曲：Faceless 与 LegoGodzilla\n演唱：Amai Hisa"
+ },
+ "6": {
+ "description": "歌词与混音协助：Juno Songs"
+ },
+ "7": {
+ "description": "Pure 配音"
+ },
+ "8": {
+ "description": "Onion 配音"
+ }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "peeps": {
+ "0": {
+ "description": "作曲：Ascenti 与 Legogodzilla"
+ },
+ "1": {
+ "description": "过场歌曲\n作曲：Ascenti"
+ },
+ "2": {
+ "description": "过场歌曲\n作曲：Legogodzilla"
+ },
+ "3": {
+ "description": "作曲：Mochoco"
+ },
+ "4": {
+ "description": "美术"
+ },
+ "5": {
+ "description": "美术"
+ },
+ "6": {
+ "description": "作曲家"
+ },
+ "7": {
+ "description": "作曲家"
+ },
+ "8": {
+ "description": "作曲家"
+ },
+ "9": {
+ "description": "谱面制作人"
+ },
+ "10": {
+ "description": "Bree 配音"
+ },
+ "11": {
+ "description": "Tabi 配音"
+ },
+ "12": {
+ "description": "Vs. Tabi\n（Ascenti、LegoGodzilla702、Vs. Tabi 团队）"
+ },
+ "13": {
+ "description": "Characteristic Disparity\n（Team Shatterdisk）"
+ }
+ }
+}

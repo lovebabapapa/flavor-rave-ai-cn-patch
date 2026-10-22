@@ -1,0 +1,36 @@
+# 构建产物
+汉化输出/*.zip
+汉化输出/*.sha256
+汉化输出/FR_CN_补丁/
+
+# 中间产物 / 调试
+titlecard_frames/
+titlecard_montage/
+titlecard_preview/
+_user_edited.xlsx
+_user_changes.json
+_backup_*/
+__pycache__/
+*.pyc
+
+# 游戏原始数据（版权原因不入库，使用者自行 extract 生成）
+source_files/
+AiNiee输入/
+AiNieeOutput/
+AiNiee输出/
+汉化素材_图片/
+
+# 大体积核对表
+汉化核对表.xlsx
+汉化核对表_新DLC.xlsx
+
+# 调试与中间数据
+dev/
+_backup_names/
+_backup_terms/
+glossary_report.json
+fr_tree.json
+补译.json
+terms.json
+_user_changes.json
+剩余翻译内容盘点.md

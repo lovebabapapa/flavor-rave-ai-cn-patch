@@ -1,0 +1,54 @@
+{
+ "character": {
+ "0": {
+ "design": "Flavor Rave 原创角色\n设计： Crim",
+ "desc": "爆红美食博主，用 RAVE 之力展示离谱的烹饪手法。风格与魅力满溢。",
+ "place": "Crispy's 餐厅"
+ },
+ "1": {
+ "design": "Flavor Rave 原创角色\n设计： Crim",
+ "desc": "白天是朴实的农家女孩，夜晚登上舞台做喜剧演员。别被她的名字骗了，她超搞笑。",
+ "place": "Crispy's 餐厅"
+ },
+ "2": {
+ "design": "Flavor Rave 原创角色\n设计： Mochoco",
+ "desc": "生在恩辛克的三岁小孩。话还说不利索，经常对着远处发呆。",
+ "place": "Crispy's 餐厅"
+ },
+ "3": {
+ "design": "Flavor Rave 原创角色\n设计： Mochoco",
+ "desc": "害羞安静的恩辛克学院毕业生，尚未找到真正的使命。在大多数场合都觉得自己格格不入。",
+ "place": "Crispy's 餐厅"
+ },
+ "4": {
+ "design": "Flavor Rave 原创角色\nDuster & Mellodi",
+ "desc": "来迷迭香山脊找对象的居民。他迫切想成为著名摇滚明星，只为撑撑这个肤浅的场面。",
+ "place": "Crispy's 餐厅"
+ },
+ "5": {
+ "design": "Flavor Rave 原创角色\n设计： Juno",
+ "desc": "电动车专家，修理铺的两大台柱之一。听着体育广播干活，特别专注。",
+ "place": "Oil 汽修铺"
+ },
+ "6": {
+ "design": "Flavor Rave 原创角色\n设计： Juno",
+ "desc": "为 Oil 工作的通用汽修工。看着迷迷糊糊，实则是非常可靠的员工，帮衬着住在 The Leftovers 区的家人。",
+ "place": "Oil 汽修铺"
+ },
+ "7": {
+ "design": "Flavor Rave 原创角色\n设计： Juno",
+ "desc": "修理铺的财务与文书担当。无论客人还是同事惹出乱子，她都会用尽一切办法摆平。",
+ "place": "Oil 汽修铺"
+ },
+ "8": {
+ "design": "Flavor Rave 原创角色\n设计： Sky",
+ "desc": "老车迷，Patty 的好丈夫。想在一家搬过海之前，把他最爱的摩托修好。",
+ "place": "Oil 汽修铺"
+ },
+ "9": {
+ "design": "Flavor Rave 原创角色\n设计： Sky",
+ "desc": "元气厨师，梦想开一家自己的小餐馆。很快将随家人搬离恩辛克去追这个梦。",
+ "place": "Oil 汽修铺"
+ }
+ }
+}

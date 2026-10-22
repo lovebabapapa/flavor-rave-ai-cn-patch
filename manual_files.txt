@@ -1,0 +1,8 @@
+mods/Official DLC - Younger Generation/data/saff/script.lua
+mods/Official DLC - Chillin' & Thrillin'/data/restless/script.lua
+mods/DLC1/data/lodestar-shanty/script.lua
+mods/Official Collab DLC- Lovers Together/images/stages/cafe/we/endmessage.png
+assets/tbd/images/togarashi/introtext1.png
+assets/tbd/images/togarashi/introtext2.png
+assets/tbd/images/togarashi/introtext3.png
+assets/tbd/images/togarashi/introtext4.png

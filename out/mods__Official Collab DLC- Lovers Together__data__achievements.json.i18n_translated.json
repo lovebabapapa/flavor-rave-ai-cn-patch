@@ -1,0 +1,14 @@
+{
+ "achievements": {
+ "0": {
+ "fancyName": "我们 Tomodachi",
+ "unlockCondition": "在《Home Brew》中达成全连",
+ "showmanDialogue": "你可能以为我喜欢那种精心冲泡、花里胡哨的咖啡，可我其实就爱一杯朴素的好咖啡。那台手动磨豆机我用了四十年，到现在还好使得很！"
+ },
+ "1": {
+ "fancyName": "相反相吸",
+ "unlockCondition": "在《Starburst Special》中达成全连",
+ "showmanDialogue": "虽说我不信童话和那些古老的奇幻摇篮曲，但它们给一场活动添的神秘感是无可否认的！也许等下次日蚀来的时候，我该在自己的展厅安排个时段，看看会发生什么……"
+ }
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "achievements": {
+ "0": {
+ "fancyName": "痛苦的前奏",
+ "unlockCondition": "在《Festering》中达成全连",
+ "showmanDialogue": "远方某家餐厅发生恐怖爆炸的消息到处都是。凶手至今没找到。真令人不安……希望别有可疑人物跑来恩辛克的地盘。"
+ },
+ "1": {
+ "fancyName": "接着宙斯就来了",
+ "unlockCondition": "在《Kablooie》中达成全连",
+ "showmanDialogue": "先是反常的暴风雪，现在又是损毁财产的落雷？唐辛子镇到底是怎么回事，总招来这种危险天气？！我怀疑那地区近期 RAVE 使用的激增可能是原因之一……"
+ }
+ }
+}

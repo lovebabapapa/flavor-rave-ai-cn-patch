@@ -1,0 +1,14 @@
+{
+ "achievements": {
+ "0": {
+ "fancyName": "我的妈呀！",
+ "unlockCondition": "在《Squisito》中达成全连",
+ "showmanDialogue": "早就听说 Crispy 的厨艺举世无双！我觉得该去一趟迷迭香山脊拜会本尊了。我手上正好有一场聚会，急需他这样的掌勺！"
+ },
+ "1": {
+ "fancyName": "油脂闪电",
+ "unlockCondition": "在《Tune-Up》中达成全连",
+ "showmanDialogue": "我开的也是一套相当有年份的老座驾，而 Oil 是我唯一信任、能让它保持原汁原味光泽的人。可惜她的店只做本地生意，我知道不少同乡外的朋友都用得上这样的手艺。"
+ }
+ }
+}

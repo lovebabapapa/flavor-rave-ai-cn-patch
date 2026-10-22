@@ -1,0 +1,14 @@
+# 统一换行，避免 Lua/JSON 在 Windows 下被转成 CRLF 影响游戏解析
+* text=auto eol=lf
+
+# 二进制资源不做行尾转换
+*.png binary
+*.zip binary
+*.ttf binary
+*.jpg binary
+
+# 语言上明确
+*.py text
+*.lua text
+*.json text
+*.md text

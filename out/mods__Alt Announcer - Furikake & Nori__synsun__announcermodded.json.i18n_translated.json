@@ -1,0 +1,12 @@
+{
+ "dialogue": {
+ "0": {
+ "text": "本期节目由外部模组赞助播出：",
+ "choices": {
+ "0": {
+ "text": "Furikake & Nori"
+ }
+ }
+ }
+ }
+}

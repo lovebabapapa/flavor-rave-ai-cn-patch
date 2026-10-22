@@ -1,0 +1,14 @@
+{
+ "achievements": {
+ "0": {
+ "fancyName": "哎呀，Y2K！",
+ "unlockCondition": "在《Flow State》中达成全连",
+ "showmanDialogue": "恩辛克学院校友的成就，把它的名声、乃至规模，都推到了前所未有的高度！不过我听说如今入学越来越难了，所以小伙子们，好好表现，去挣到那个录取名额吧！"
+ },
+ "1": {
+ "fancyName": "浴火重生",
+ "unlockCondition": "在《Restless》中达成全连",
+ "showmanDialogue": "我甚至不知道商场最里面还开着那么一家店。不过我会继续敬而远之。那股青春期的戾气隔着老远就能闻到，而且……呃啊……光想想就让我起鸡皮疙瘩。"
+ }
+ }
+}

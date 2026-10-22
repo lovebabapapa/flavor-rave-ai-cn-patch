@@ -1,0 +1,40 @@
+{
+ "peeps": {
+ "0": {
+ "description": "作曲：HighPoweredKeyz 与 K-Man\n混音：Starbreak 与 Faceless"
+ },
+ "1": {
+ "description": "过场曲目\n作曲：SkyHighProductions"
+ },
+ "2": {
+ "description": "作曲：SkyHighProductions 与 HighPoweredKeyz"
+ },
+ "3": {
+ "description": "背景画师"
+ },
+ "4": {
+ "description": "暂停菜单画师"
+ },
+ "5": {
+ "description": "作曲家"
+ },
+ "6": {
+ "description": "Macy 配音"
+ },
+ "7": {
+ "description": "Kazuki 配音"
+ },
+ "8": {
+ "description": "Sekaiya 配音"
+ },
+ "9": {
+ "description": "Luna 配音"
+ },
+ "10": {
+ "description": "Cerulean Symphony\n（ItIsIWeeg、K-Man、Cerulean Symphony 团队）"
+ },
+ "11": {
+ "description": "Friday Night Eclipsin'\n（SkyHighProductions、MrArtz、Eclipsin' 团队）"
+ }
+ }
+}

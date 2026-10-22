@@ -1,0 +1,2 @@
+{ "peeps": { "0": { "description": "作曲：Noichi", "whichrole": "音乐" }, "1": { "description": "作曲：摩可可", "whichrole": "音乐" }, "2": { "description": "<br>过场动画歌曲<br>作曲：摩可可", "whichrole": "音乐" }, "3": { "description": "暂停菜单美术", "whichrole": "客座美术" }, "4": { "description": "背景美术", "whichrole": "美术" }, "5": { "description": "背景美术、像素美术", "whichrole": "客座美术" }, "6": { "description": "果冻配音", "whichrole": "配音" }, "7": { "description": "草本配音", "whichrole": "配音" }, "8": { "description": "Saffron 配音", "whichrole": "配音" }, "9": { "description": "花卉配音", "whichrole": "配音" } }
+}

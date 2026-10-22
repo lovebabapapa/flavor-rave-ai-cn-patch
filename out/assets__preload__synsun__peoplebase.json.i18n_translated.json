@@ -1,0 +1,2 @@
+{ "dialogue": { "0": { "text": "我们该讨论谁？", "choices": { "0": { "text": "Sour" }, "1": { "text": "Sweet" }, "2": { "text": "Showman" }, "3": { "text": "Savory" }, "4": { "text": "Umami" }, "5": { "text": "Spicy" }, "6": { "text": "Smoky" }, "7": { "text": "Sun-Dried" }, "8": { "text": "Synthetic" } } } }
+}
