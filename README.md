@@ -1,12 +1,12 @@
 # Flavor Rave 简体中文补丁
 
 > 面向《Flavor Rave》及其全部官方 / 联动 DLC 的简体中文**数据补丁**。
-> 当前版本：**v1.0.0** · 覆盖 19 个模组 · 274 个文本文件 · 约 2700 条文本
+> 当前版本：**v1.0.1** · 覆盖 19 个模组 · 274 个文本文件 · 约 2700 条文本
 
 | | |
 |---|---|
 | **适用游戏版本** | **FNF: Flavor Rave V2.5.2 FULLY BREWED!** |
-| 补丁版本 | v1.0.0 |
+| 补丁版本 | v1.0.1 |
 | 安装方式 | 文件覆盖（先装 DLC，再覆盖补丁） |
 | 项目仓库 | https://github.com/lovebabapapa/flavor-rave-ai-cn-patch |
 | **原作 GameBanana** | https://gamebanana.com/mods/410436 |
