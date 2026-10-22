@@ -1,0 +1,69 @@
+name: 新 DLC 支持请求
+description: 请求汉化某个新发布或遗漏的 DLC / 模组
+title: "[新DLC] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        本补丁是按「模组文件夹」逐个覆盖的。如果某个 DLC 的内容仍是英文，通常是因为补丁还没覆盖到它。
+
+  - type: input
+    id: name
+    attributes:
+      label: DLC / 模组名称
+      placeholder: Official DLC - XXX
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: 下载来源链接
+      description: GameBanana / GitHub / 官方发布页均可
+      placeholder: https://gamebanana.com/mods/xxxxx
+    validations:
+      required: true
+
+  - type: dropdown
+    id: installed
+    attributes:
+      label: 你是否已经安装
+      options:
+        - 已安装，内容显示英文
+        - 已安装，部分内容中文部分英文
+        - 还没安装
+    validations:
+      required: true
+
+  - type: input
+    id: folder
+    attributes:
+      label: 安装后的文件夹名
+      description: 游戏 mods 目录下的实际文件夹名，这个最关键
+      placeholder: mods/Official DLC - XXX
+    validations:
+      required: true
+
+  - type: textarea
+    id: content
+    attributes:
+      label: 涉及内容
+      description: 大致有哪些需要翻译的内容（剧情 / 电视百科 / 成就 / 歌词 / 图片字幕…）
+    validations:
+      required: false
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: 截图
+      description: 直接把游戏内截图拖进来即可
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 确认
+      options:
+        - label: 该 DLC 未包含在本补丁的最新版本中
+          required: true

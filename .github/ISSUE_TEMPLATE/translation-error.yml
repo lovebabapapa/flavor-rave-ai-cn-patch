@@ -1,0 +1,93 @@
+name: 译误反馈
+description: 报告译文错误、语气不当、人名/地名误译等问题
+title: "[译误] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢反馈！填写越具体，修复越快。
+        补丁里每个文件都保持游戏的原始路径结构，例如：
+        `mods/<DLC名>/data/<曲名>/dreamcast.json`、`assets/synsun/people-sour.json`
+
+  - type: input
+    id: location
+    attributes:
+      label: 出现位置（文件路径）
+      description: 游戏目录内该文件的相对路径；不确定就写「不记得」并附截图
+      placeholder: mods/Official DLC - Younger Generation/data/saff/dreamcast.json
+    validations:
+      required: true
+
+  - type: input
+    id: index
+    attributes:
+      label: 行号 / 对话序号
+      description: JSON 里的行号，或 dialogue 的序号（如第 12 条）
+      placeholder: 第 12 行 / 序号 12
+    validations:
+      required: false
+
+  - type: textarea
+    id: original
+    attributes:
+      label: 英文原文
+      description: 可临时移除补丁该文件查看，或对照补丁内同名文件的原始位置
+      placeholder: Surely now you'll give Sour, a chance, right..?
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: 当前译文（有问题的版本）
+      placeholder: 现在你总该给酸果酱一个机会了吧……？
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 建议译法
+      placeholder: 现在你总该给 Sour 一个机会了吧……？
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 问题类型
+      options:
+        - 人名 / 地名被误译
+        - 语气或角色口吻不符
+        - 双关 / 梗未体现
+        - 术语前后不一致
+        - 漏译 / 仍是英文
+        - 标点或排版问题
+        - 其他
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: 补丁版本
+      description: 见下载包名，如 v1.0.0
+      placeholder: v1.0.0
+    validations:
+      required: true
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: 补充说明 / 截图
+      description: 可直接把截图拖进输入框
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 确认
+      options:
+        - label: 我已确认使用的是本仓库发布的补丁（非其它汉化），且游戏版本为 V2.5.2
+          required: true

@@ -130,6 +130,14 @@ python build.py
 
 ---
 
+## 反馈
+
+- **译误 / 语气问题** → [提交译误反馈](https://github.com/lovebabapapa/flavor-rave-ai-cn-patch/issues/new?template=translation-error.yml)（填文件路径 + 行号 + 建议译法）
+- **新 DLC 未汉化** → [请求支持新 DLC](https://github.com/lovebabapapa/flavor-rave-ai-cn-patch/issues/new?template=new-dlc.yml)（填 DLC 名 + 来源链接 + 安装后的文件夹名）
+- 提交前请先确认使用的是 [最新版本](https://github.com/lovebabapapa/flavor-rave-ai-cn-patch/releases) 且游戏为 V2.5.2
+
+---
+
 ## 许可与致谢
 
 - 本项目中的**脚本与工具链**：MIT License
