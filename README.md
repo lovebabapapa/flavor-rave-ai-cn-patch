@@ -1,7 +1,7 @@
 # Flavor Rave 简体中文补丁
 
 > 面向《Flavor Rave》及其全部官方 / 联动 DLC 的简体中文**数据补丁**。
-> 当前版本：**v1.0.1** · 覆盖 19 个模组 · 274 个文本文件 · 约 2700 条文本
+> 当前版本：**v1.0.1** · 覆盖 19 个模组 · 303 个文本文件 · 约 2800 条文本
 
 | | |
 |---|---|
@@ -11,6 +11,7 @@
 | 项目仓库 | https://github.com/lovebabapapa/flavor-rave-ai-cn-patch |
 | **原作 GameBanana** | https://gamebanana.com/mods/410436 |
 | **原作源码** | https://github.com/Jorge-SunSpirit/Flavor-Rave-Public |
+
 
 > ⚠️ 补丁的路径与字段结构均按 **V2.5.2 FULLY BREWED!** 校准。
 > 若游戏更新到更高版本，可能出现文件缺失、字段结构变化或文本错位，请等待对应补丁更新后再使用。
@@ -31,6 +32,7 @@
 | 内容 | 状态 | 数量 |
 |---|---|---|
 | 剧情过场对话（主线 + 全部 DLC） | ✅ | 37 个文件 |
+| 死亡台词（GAME OVER 语音字幕） | ✅ | 33 个角色 / 74 句 |
 | SynSun 电视百科 / 人物档案 / 曲目介绍 | ✅ | 78 个文件 |
 | 结算画面台词（角色 S~D 评价） | ✅ | 30 个文件 |
 | Flavorpedia 图鉴（角色 / 地点 / 物品 / 侧栏） | ✅ | 17 个文件 |
@@ -120,7 +122,7 @@ ainiee/
 
 ## 版本
 
-当前 **v1.0.0**，变更历史见 [CHANGELOG.md](CHANGELOG.md)。
+当前 **v1.0.1**（补全全部死亡台词），变更历史见 [CHANGELOG.md](CHANGELOG.md)。
 
 发布时执行：
 
