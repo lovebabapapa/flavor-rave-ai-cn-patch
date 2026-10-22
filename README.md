@@ -8,6 +8,7 @@
 | **适用游戏版本** | **FNF: Flavor Rave V2.5.2 FULLY BREWED!** |
 | 补丁版本 | v1.0.0 |
 | 安装方式 | 文件覆盖（先装 DLC，再覆盖补丁） |
+| 项目仓库 | https://github.com/lovebabapapa/flavor-rave-ai-cn-patch |
 
 > ⚠️ 补丁的路径与字段结构均按 **V2.5.2 FULLY BREWED!** 校准。
 > 若游戏更新到更高版本，可能出现文件缺失、字段结构变化或文本错位，请等待对应补丁更新后再使用。
